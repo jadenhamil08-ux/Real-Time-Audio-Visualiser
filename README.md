@@ -1,4 +1,4 @@
-**Project Overview: **This python project is a personal and independent project to make audio files easy to visualise for studio editing. It uses custom tkinter to allow the user to choose an audio file, specifically an MP3 file. It is then taken to a new display, where the user is given access to playback controls, such as volume and play/pause, as well as an audio visualiser, showing the different frequencies of the audio file. It combines mathematics, signal processing and creativity to produce a visually engaging audio experience.
+**Project Overview:** This python project is a personal and independent project to make audio files easy to visualise for studio editing. It uses custom tkinter to allow the user to choose an audio file, specifically an MP3 file. It is then taken to a new display, where the user is given access to playback controls, such as volume and play/pause, as well as an audio visualiser, showing the different frequencies of the audio file. It combines mathematics, signal processing and creativity to produce a visually engaging audio experience.
 
 **Requirements:**
 - Python 3.14
